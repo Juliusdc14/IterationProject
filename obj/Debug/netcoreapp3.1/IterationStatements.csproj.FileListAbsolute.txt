@@ -1,0 +1,13 @@
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.csproj.AssemblyReference.cache
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.AssemblyInfoInputs.cache
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.AssemblyInfo.cs
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.csproj.CoreCompileInputs.cache
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.deps.json
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.runtimeconfig.json
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.runtimeconfig.dev.json
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.dll
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/bin/Debug/netcoreapp3.1/IterationStatements.pdb
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.dll
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.pdb
+/Users/davidcornelius/repos/IterationStatementsProject/IterationStatements/obj/Debug/netcoreapp3.1/IterationStatements.genruntimeconfig.cache
